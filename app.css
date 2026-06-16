@@ -1,3 +1,16 @@
-p{
-    font-size:20px
+.daubuoi{
+    padding: 10px;
 }
+
+img{
+    max-width: 100%;
+}
+
+.daucac{
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px black;
+    width: calc(25% - 20px);
+    float: left;
+}
+
